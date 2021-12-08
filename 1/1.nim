@@ -1,2 +1,2 @@
-for i in range[0..2]:
+for i in countup(0,parseInt(paramStr(1))):
     echo i
